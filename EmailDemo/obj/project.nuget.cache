@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "spXtHpZWVck0Ii8IeVxNNbYqfNf4S6hXMaOUf+Oba0UeQO69gdVcj4s0m4HOzZED1/ZtzMb/CBJdh1UQfyha2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victor Marri\\source\\repos\\EmailDemo\\EmailDemo\\EmailDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor Marri\\.nuget\\packages\\fluentemail.core\\3.0.0\\fluentemail.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\Victor Marri\\.nuget\\packages\\fluentemail.smtp\\3.0.0\\fluentemail.smtp.3.0.0.nupkg.sha512",
+    "C:\\Users\\Victor Marri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.11\\microsoft.extensions.dependencyinjection.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\Victor Marri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\obj\Debug\netcoreapp3.1\EmailDemo.csprojAssemblyReference.cache
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\obj\Debug\netcoreapp3.1\EmailDemo.AssemblyInfoInputs.cache
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\obj\Debug\netcoreapp3.1\EmailDemo.AssemblyInfo.cs
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\obj\Debug\netcoreapp3.1\EmailDemo.csproj.CoreCompileInputs.cache
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\bin\Debug\netcoreapp3.1\EmailDemo.exe
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\bin\Debug\netcoreapp3.1\EmailDemo.deps.json
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\bin\Debug\netcoreapp3.1\EmailDemo.runtimeconfig.json
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\bin\Debug\netcoreapp3.1\EmailDemo.runtimeconfig.dev.json
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\bin\Debug\netcoreapp3.1\EmailDemo.dll
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\bin\Debug\netcoreapp3.1\EmailDemo.pdb
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\bin\Debug\netcoreapp3.1\FluentEmail.Core.dll
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\bin\Debug\netcoreapp3.1\FluentEmail.Smtp.dll
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\obj\Debug\netcoreapp3.1\EmailDemo.csproj.CopyComplete
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\obj\Debug\netcoreapp3.1\EmailDemo.dll
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\obj\Debug\netcoreapp3.1\EmailDemo.pdb
+C:\Users\Victor Marri\source\repos\EmailDemo\EmailDemo\obj\Debug\netcoreapp3.1\EmailDemo.genruntimeconfig.cache
